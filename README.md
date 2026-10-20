@@ -1,7 +1,21 @@
-# Pass the Fear trainer +46: sanity, flashlight, stealth and items [v1.0.0]
+# Pass the Fear Trainer (+46) — Free Download 2026
 
-[Download EN](https://moggydaytrainer.com/en/f/pass-the-fear-trainer) · [Скачать RU](https://moggydaytrainer.com/f/pass-the-fear-trainer) · [Pass the Fear hub](https://moggydaytrainer.com/g/pass-the-fear) · [Pass the Fear news](https://moggydaytrainer.com/g/pass-the-fear/news)
+<p align="left">
+  <a href="https://moggydaytrainer.com/en/f/pass-the-fear-trainer"><img alt="Download English trainer" src="https://img.shields.io/badge/⬇%20Download-English%20trainer-2563eb?style=for-the-badge"></a>
+  <a href="https://moggydaytrainer.com/f/pass-the-fear-trainer"><img alt="Russian page" src="https://img.shields.io/badge/Русская%20страница-1d4ed8?style=for-the-badge"></a>
+  <a href="https://moggydaytrainer.com/zh/f/pass-the-fear-trainer"><img alt="Chinese page" src="https://img.shields.io/badge/中文%20页面-1e40af?style=for-the-badge"></a>
+  <a href="https://moggydaytrainer.com/en/g/pass-the-fear"><img alt="Game hub" src="https://img.shields.io/badge/Pass%20the%20Fear%20hub-334155?style=for-the-badge"></a>
+  <a href="https://moggydaytrainer.com/en/games"><img alt="All trainers" src="https://img.shields.io/badge/MoggyDay%20catalog-0f766e?style=for-the-badge"></a>
+</p>
 
+
+MoggyDay hosts the official **Pass the Fear** trainer for Windows (v1.0.0, **+46** toggles). This repository is a public mirror: game context, screenshots, and the full feature list. The download button lives only on [moggydaytrainer.com](https://moggydaytrainer.com) — there is **no `.exe` in git**.
+
+## About Pass the Fear
+
+Pass the Fear is a PC game. MoggyDay documents a dedicated trainer with live toggles for single-player and offline sessions. It is listed in the MoggyDay catalog as a Windows title (Steam app 3561220).
+
+## About the MoggyDay trainer
 
 MoggyDay keeps one stable URL for Pass the Fear: [EN](https://moggydaytrainer.com/en/f/pass-the-fear-trainer) / [RU](https://moggydaytrainer.com/f/pass-the-fear-trainer). Build v1.0.0 advertises +46 — Pass the Fear trainer +46: sanity, flashlight, stealth and items. Single-player only.. This README is expanded from that listing so `Pass the Fear trainer 2026` has a real page with screenshots instead of a one-line stub.
 
@@ -19,87 +33,37 @@ Shots from the live [Pass the Fear trainer page](https://moggydaytrainer.com/en/
 
 [![Pass the Fear options 3](https://moggydaytrainer.com/media/shots/hub-ptfear/fn-3.png)](https://moggydaytrainer.com/en/f/pass-the-fear-trainer)
 
-## Who this is for
+## Trainer features (+46)
 
-For Pass the Fear on Windows. The trainer is a separate process next to the game, not a Steam workshop mod. Read the option names on the download page before you enable everything at once.
+The table matches the live launcher pack. Hotkeys may change after a patch — confirm on the [English trainer page](https://moggydaytrainer.com/en/f/pass-the-fear-trainer).
 
-## Live URLs
+| # | Feature | Category | Hotkey | Type |
+|---:|---|---|---|---|
+| 1 | Pass the Fear trainer +46: sanity | — | — | |
+| 2 | flashlight | — | — | |
+| 3 | stealth and items. Single-player only. | — | — | |
 
-| Page | URL |
-|---|---|
-| English trainer | [https://moggydaytrainer.com/en/f/pass-the-fear-trainer](https://moggydaytrainer.com/en/f/pass-the-fear-trainer) |
-| Русский трейнер | [https://moggydaytrainer.com/f/pass-the-fear-trainer](https://moggydaytrainer.com/f/pass-the-fear-trainer) |
-| Game hub | [https://moggydaytrainer.com/g/pass-the-fear](https://moggydaytrainer.com/g/pass-the-fear) |
-| Trainers tab | [https://moggydaytrainer.com/g/pass-the-fear/trainers](https://moggydaytrainer.com/g/pass-the-fear/trainers) |
-| News | [https://moggydaytrainer.com/g/pass-the-fear/news](https://moggydaytrainer.com/g/pass-the-fear/news) |
-| Catalog | [https://moggydaytrainer.com/games](https://moggydaytrainer.com/games) |
-
-## Pass the Fear trainer v1.0.0: +46 options
-
-Copy taken from the current MoggyDay description so this page does not drift from the live listing.
-
-| # | Option |
-|---|---|
-| 1 | Pass the Fear trainer +46: sanity |
-| 2 | flashlight |
-| 3 | stealth and items. Single-player only. |
-
-### What those toggles are for
+### Tips
 
 - **Pass the Fear trainer +46: sanity** — Usually the first toggle people enable on a Pass the Fear trainer.
 - **flashlight** — Check this after every Pass the Fear patch — values often shift.
 - **stealth and items. Single-player only.** — Leave it off if you only want a mild resource boost.
 
-The full hotkey grid is only on the [download page](https://moggydaytrainer.com/en/f/pass-the-fear-trainer). GitHub stays a summary.
+## Download
 
-## How to download
+1. Open **[Pass the Fear trainer +46: sanity, flashlight, stealth and items [v1.0.0]](https://moggydaytrainer.com/en/f/pass-the-fear-trainer)** (or [Russian listing](https://moggydaytrainer.com/f/pass-the-fear-trainer), [Chinese listing](https://moggydaytrainer.com/zh/f/pass-the-fear-trainer)).
+2. Confirm the domain is **moggydaytrainer.com**.
+3. Use the primary **Free download** button on that page.
+4. After a Pass the Fear update, reload the same URL — the slug `/f/pass-the-fear-trainer` never moves.
 
-1. Open **[Pass the Fear trainer +46: sanity, flashlight, stealth and items [v1.0.0]](https://moggydaytrainer.com/en/f/pass-the-fear-trainer)** or **[Pass the Fear «Трейнер +46: рассудок, фонарь, стелс и предметы» [v1.0.0]](https://moggydaytrainer.com/f/pass-the-fear-trainer)**.
-2. Confirm the host is **moggydaytrainer.com**.
-3. Use the primary download button. Ignore zips that copy this README.
-4. After a Pass the Fear patch, reload the same URL. We do not publish binaries as GitHub Releases.
+## Install (Windows)
 
-Wrong paths: cloning this repo, a random `Release` asset, a Telegram file named `pass-the-fear-trainer.exe`.
+1. Close Pass the Fear before trying a new build.
+2. Run only files from MoggyDay for `pass-the-fear-trainer`.
+3. Enable a few toggles first, not the entire +46 list.
+4. Keep a backup save before resource or progression edits.
 
-## What the screenshots show
-
-The first image is the Pass the Fear cover used on MoggyDay. The strip after it is taken from the live trainer card: the page header, the option list, and extra function shots. If a thumbnail here 404s, the site still has the file — we hotlink `/media/shots/` so Google sees the same bytes as the listing. Click any image to open [https://moggydaytrainer.com/en/f/pass-the-fear-trainer](https://moggydaytrainer.com/en/f/pass-the-fear-trainer).
-
-## Install notes (Windows)
-
-1. Close Pass the Fear before the first run of a new trainer build.
-2. Unpack or run only what MoggyDay gave you for `pass-the-fear-trainer`.
-3. Start the trainer, then start Pass the Fear (or the order printed on the live page if it differs).
-4. Enable one or two toggles, not the whole +46 list at once.
-5. Make a spare save. God mode and resource edits are hard to undo if you overwrite the only slot.
-
-Antivirus sometimes flags trainers. That is normal for this file class. Download again from the same URL if the hash on the site changes.
-
-## If something does not work
-
-- The game patched and the v1.0.0 heading is older than the Pass the Fear build you launched — wait for MoggyDay to bump the page.
-- You used a bookmark that is not `/f/pass-the-fear-trainer` — switch to the URLs in the table above.
-- Only the DLL or only the EXE was copied from a friend — get the pair from the site.
-- Overlay or other injectors are running — turn them off and retry.
-
-## After a Pass the Fear update
-
-Trainers break when the game moves values. MoggyDay bumps the H1 version when a new pair is ready. Keep this bookmark. If a screenshot here looks older than the site, trust the site — we refresh this mirror after the listing, not before.
-
-## RU
-
-**Pass the Fear «Трейнер +46: рассудок, фонарь, стелс и предметы» [v1.0.0]**
-
-Трейнер Pass the Fear +46: рассудок, фонарь, стелс и предметы. Только одиночная игра.
-
-Скриншоты и опции те же, что на английской карточке. Скачивать нужно отсюда:
-
-- Трейнер: https://moggydaytrainer.com/f/pass-the-fear-trainer
-- Хаб Pass the Fear: https://moggydaytrainer.com/g/pass-the-fear
-- Новости: https://moggydaytrainer.com/g/pass-the-fear/news
-- Каталог: https://moggydaytrainer.com/games
-
-Файл не лежит в git. Если кто-то прислал «тот же трейнер» с другого домена — не ставь.
+## FAQ
 
 ## FAQ
 
@@ -118,19 +82,23 @@ Yes — [Pass the Fear «Трейнер +46: рассудок, фонарь, с�
 **Why GitHub at all?**
 So `Pass the Fear trainer` search has a documented page with screenshots that points at the real download, instead of a dead file host.
 
-## Search notes
+
+## Search terms (English)
 
 `Pass the Fear trainer`, `Pass the Fear trainer download`, `Pass the Fear cheats`, `Pass the Fear hack`, `Pass the Fear god mode`, `free Pass the Fear trainer`, `Pass the Fear trainer 2026`, `скачать трейнер Pass the Fear`
 
-We keep tags aligned with the live page. This is documentation, not a keyword dump.
+## Other languages
+
+- Russian copy: [ru.md](ru.md) · live page [https://moggydaytrainer.com/f/pass-the-fear-trainer](https://moggydaytrainer.com/f/pass-the-fear-trainer)
+- Chinese page: [https://moggydaytrainer.com/zh/f/pass-the-fear-trainer](https://moggydaytrainer.com/zh/f/pass-the-fear-trainer)
 
 ## Other MoggyDay trainers
 
-- ![DYNASTY WARRIORS 3: Complete Edition Remastered cover](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3841510/05d0b90d43cafa60393210f672aae39b89de79a3/library_capsule_2x.jpg) [DYNASTY WARRIORS 3: Complete Edition Remastered trainer +49: musou, health, KO and troops [v1.0.0]](https://moggydaytrainer.com/en/f/dynasty-warriors-3-complete-edition-remastered-trainer) · [RU](https://moggydaytrainer.com/f/dynasty-warriors-3-complete-edition-remastered-trainer)
-- ![Dragon's Dogma 2 cover](https://moggydaytrainer.com/media/covers/dragons-dogma-2-dark-arisen-bb7ad66ec5.jpg) [Dragon's Dogma 2 trainer +54: gold, rift crystals, pawns, vocations [v1.0.0]](https://moggydaytrainer.com/en/f/dragons-dogma-2-dark-arisen-trainer) · [RU](https://moggydaytrainer.com/f/dragons-dogma-2-dark-arisen-trainer)
-- ![PUBG: BATTLEGROUNDS cover](https://moggydaytrainer.com/media/covers/pubg-battlegrounds-64238724f5.jpg) [PUBG Hack 2026 | Aimbot + ESP + Wallhack | Free Download](https://moggydaytrainer.com/en/f/pubg-battlegrounds-trainer) · [RU](https://moggydaytrainer.com/f/pubg-battlegrounds-trainer)
-- ![Rust cover](https://moggydaytrainer.com/media/covers/rust-ddb79f1875.jpg) [Rust Hack 2026 | Aimbot + ESP + Wallhack | Free Download](https://moggydaytrainer.com/en/f/rust-trainer) · [RU](https://moggydaytrainer.com/f/rust-trainer)
+- ![WARDOGS cover](https://moggydaytrainer.com/media/covers/wardogs-7ec494409e.jpg) [WARDOGS trainer +42: god mode, cash, weapons, ammo [v1.0.0]](https://moggydaytrainer.com/en/f/wardogs-trainer) · [RU](https://moggydaytrainer.com/f/wardogs-trainer)
+- ![Planet Zoo 2 cover](https://moggydaytrainer.com/media/covers/planet-zoo-2-cf3f519375.jpg) [Planet Zoo 2 trainer +54: money, species, welfare, research [v1.0.0]](https://moggydaytrainer.com/en/f/planet-zoo-2-trainer) · [RU](https://moggydaytrainer.com/f/planet-zoo-2-trainer)
+- ![Apex Legends cover](https://moggydaytrainer.com/media/covers/apex-legends-ebad43c353.jpg) [Apex Hack 2026 | Aimbot + ESP + Wallhack | Free Download](https://moggydaytrainer.com/en/f/apex-legends-trainer) · [RU](https://moggydaytrainer.com/f/apex-legends-trainer)
+- ![Left 4 Dead 2 cover](https://moggydaytrainer.com/media/covers/left-4-dead-2-632911a2f3.jpg) [L4D2 Hack 2026 | God Mode + Ammo | Free Download](https://moggydaytrainer.com/en/f/left-4-dead-2-trainer) · [RU](https://moggydaytrainer.com/f/left-4-dead-2-trainer)
 
-## About
+## About this mirror
 
-Mirror maintained from `veenx0704` so `Pass the Fear trainer` can cite a GitHub URL that **points at** [moggydaytrainer.com](https://moggydaytrainer.com). No executable is stored here.
+Maintained by `veenx0704` for SEO transparency. Canonical download: [https://moggydaytrainer.com/en/f/pass-the-fear-trainer](https://moggydaytrainer.com/en/f/pass-the-fear-trainer). Screenshots hotlink MoggyDay `/media/` assets.
